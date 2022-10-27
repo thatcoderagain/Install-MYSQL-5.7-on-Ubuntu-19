@@ -1,7 +1,7 @@
 # Install MYSQL 5.7 on ubuntu 19.04 or 19.10 
 
-### Before proceeding download all the packages into the system.
-
+### Before proceeding download all the packages into the system from the given link.
+https://drive.google.com/drive/folders/19uYj3twQUBokHssbBDGxK_umVakebh_3?usp=sharing
 
 ### Make sure no other version of MySQL is installed already if installed then remove completely. Then execute the following commands.
 
